@@ -1,6 +1,6 @@
 # Hi, I'm Anurag T.
 
-## 🚗 Embedded Diagnostic Engineer @ Mercedes-Benz R&D India
+## 🚗 Embedded Diagnostic Engineer
 
 Passionate about automotive diagnostics, embedded systems, 
 and building tools that simulate real-world ECU behavior.
