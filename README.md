@@ -1,4 +1,4 @@
-# Hi, I'm Anurag Thaliyil Veedu 👋
+# Hi, I'm Anurag T.
 
 ## 🚗 Embedded Diagnostic Engineer @ Mercedes-Benz R&D India
 
